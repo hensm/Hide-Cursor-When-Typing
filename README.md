@@ -1,0 +1,2 @@
+#Hide Cursor When Typing
+ 
